@@ -37,12 +37,8 @@ I'm a passionate junior web developer based in Berlin, focused on creating clean
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlysonRTY&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="AlysonRTY's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonRTY&theme=radical" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonRTY&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonRTY&theme=radical" alt="GitHub Streak" />
 </p>
 
 
