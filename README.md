@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Max | Junior Web Developer | Berlin
 
+<h1 align="center">👋 Hi, I'm Max | Junior Web Developer | Berlin</h1>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm a passionate junior web developer based in Berlin, focused on creating clean, efficient, and user-friendly web applications. I'm constantly learning and expanding my skill set to become a better developer every day.
 
