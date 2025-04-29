@@ -3,7 +3,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm a passionate junior web developer based in Berlin, focused on creating clean, efficient, and user-friendly web applications. I'm constantly learning and expanding my skill set to become a better developer every day.
+I'm a passionate junior web developer based in Berlin, focused on creating clean, efficient, and user-friendly web applications. I'm constantly learning and expanding my skill set to become a better developer every day. Currently working on a MERN stack web app. A quacktastic community where users share duck pictures and way more! 🦆
 
 - 🔭 Currently working on improving my React/Next.js skills
 - 🌱 Learning TypeScript and advanced JavaScript concepts
