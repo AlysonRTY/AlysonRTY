@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Max | Junior Web Developer | Berlin</h1>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 I'm a passionate junior web developer based in Berlin, focused on creating clean, efficient, and user-friendly web applications. I'm constantly learning and expanding my skill set to become a better developer every day. Currently working on a MERN stack web app. A quacktastic community where users share duck pictures and way more! 🦆
 
@@ -34,15 +34,8 @@ I'm a passionate junior web developer based in Berlin, focused on creating clean
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonRTY&theme=radical" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonRTY&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maximilian-pelzer/" target="_blank">
