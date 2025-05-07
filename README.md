@@ -37,7 +37,6 @@ I'm a passionate junior web developer based in Berlin, focused on creating clean
 
 ## Let's Connect!
 
-<p align="center">
   <a href="https://www.linkedin.com/in/maximilian-pelzer/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
