@@ -1,17 +1,7 @@
 
-<h1 align="center">👋 Hi, I'm Max | Full-Stack Developer | Berlin</h1>
+<h1 align="center"> Hi, I'm Max | Full-Stack Developer </h1>
 
-<h2 align="center">About Me</h2>
-
-I'm a passionate full-stack developer based in Berlin, focused on building modern, performant web applications with clean code and great UX. Currently working on cutting-edge Next.js projects and contributing to open-source educational platforms. When I'm not coding, you'll find me exploring Berlin's tech scene or thinking about ducks 🦆
-
-- Currently contributing on CODAC - a modern LMS with Next.js 15, TypeScript and Prisma
-- Mastering advanced Next.js (App Router, Server Actions) and real-time features
-- Open-source contributor and tech community enthusiast
-- Fun fact: My first project was a 🦆-themed social network (Waddle Wonderland)
-- Let's talk about tech, ducks, or Berlin's developer scene!
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -36,7 +26,7 @@ I'm a passionate full-stack developer based in Berlin, focused on building moder
 ![Zod](https://img.shields.io/badge/-Zod-1E1E1E?style=flat&logo=zod&logoColor=white)
 ![Plate.js](https://img.shields.io/badge/-Plate.js-000000?style=flat&logo=javascript&logoColor=white)
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### [CODAC - Modern Learning Platform](https://github.com/AlysonRTY/codac-25)
 Next.js 15 LMS with job board, mentorship system, and real-time features  
